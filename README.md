@@ -40,4 +40,9 @@ This is a **content-based recommender system**.
 
 ---
 
-
+## Dataset
+Dataset not included due to size limitations.
+Download from:
+[https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+](https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies)
+---
